@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea3MiguelH</string>
+    <string name="text">Type here:</string>
+    <string name="boton1">CANCEL</string>
+    <string name="boton2">OK</string>
+</resources>
